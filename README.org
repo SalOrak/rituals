@@ -1,0 +1,9 @@
+* Rituals
+** Information Gathering
+*** Networks
+*** Hosts
+*** Systems
+**** Linux
+**** Windows
+** Vulnerability Assessment
+** Exploitation
