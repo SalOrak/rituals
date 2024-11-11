@@ -1,0 +1,10 @@
+* Wireguard
+The following guide comes from https://www.wireguard.com/quickstart/
+
+** Steps
+
+1. Download and install ~wireguard~. Using apt the command look like this: ~sudo apt install wireguard~.
+3. Download the WG Configuration and save it as ~wg0.conf~.
+4. Place the downloaded configuration in ~/etc/wireguard~. Requires root permissions.
+5. Execute ~wg-quick up wg0~, notice the latter name is the name of the file. Make sure it starts with ~wg~ or else won't work.
+6. Voila, you should be connected with wireguard!

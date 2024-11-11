@@ -1,0 +1,6 @@
+* OpenVPN
+** Steps
+1. Download and install ~openvpn~. Using apt the command look like this: ~sudo apt install openvpn~
+2. Download the OpenVPN configuration file and save it anywhere.
+3. Execute the following ~sudo openvpn /path/to/openvpn/file.vpn~.
+4. And voila! You should be already connected
